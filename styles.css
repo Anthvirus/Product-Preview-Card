@@ -42,6 +42,7 @@ p{
     font-family: 'Fraunces', sans-serif;
 }
 picture img{
+    display: block;
     max-width: 28.5rem;
     max-height: 31.5rem;
     border-bottom-left-radius: 10px;
